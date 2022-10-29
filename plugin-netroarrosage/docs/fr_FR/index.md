@@ -67,3 +67,7 @@ De manière totalement symétrique on retrouve les informations relatives au pro
 
 ### Les capteurs de sol
  
+Les équipements représentant les capteurs de sol renferment les information inhérentes au relevé effectué par les capteurs à intervalle régulier, à savoir la température, l'humidité et la luminosité. Le niveau de batterie, auquel il faut veiller puisque qu'il dépend de la luminosité, est également affiché.
+
+![Ecran du capteur de sol](images/capteur_de_sol.png "Ecran principal du capteur *Netro*")
+
