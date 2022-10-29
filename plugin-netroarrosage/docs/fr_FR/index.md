@@ -31,7 +31,7 @@ L' *objet parent par défaut* désigne l'objet auquel vous rattacher vos équipe
 
 A l'issue de la première installation, la page principale du plugin ne présente aucun équipement. Les équipements qui correspondent à votre matériel *Netro* seront générés par le plugin pendant la phase de synchronisation que vous aurez déclenchée grâce au bouton "Synchroniser" en haut à gauche.
 
-![Ecran de synchronisation](images/synchronisation "Ecran principal de *Netro* Arrosage")
+![Ecran de synchronisation](images/synchronisation.png "Ecran principal de *Netro* Arrosage")
 
 Les numéros de série fournis dans la page de configuration seront utilisés pour retrouver votre environnement *Netro*. Si vous ne les avez pas fournis au préalable la synchronisation n'aura aucun effet.
 
