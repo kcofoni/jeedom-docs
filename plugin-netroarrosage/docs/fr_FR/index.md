@@ -57,5 +57,13 @@ On peut noter que le nombre d'appels effectués depuis minuit à l'[API Public](
 
 ### Les zones
 
+On retrouve dans les équipements de type *zone* les actions de *démarrage* et d'*arrêt* de l'arrosage. On retrouve comme dans le contrôleur la commande info binaire indiquant si l'*arrosage* est *en cours*.
+
+Par ailleurs, on retrouve toutes les informations relatives au dernier arrosage qu'il soit terminé ou non : son *statut* (est-il terminé ou toujours en cours), son origine (démarrage manuel ou planifié), sa *date/heure de démarrage* et son *heure de fin*, passée ou prévisionnelle si l'arrosage est toujours en cours.
+
+![Ecran de la zone](images/widget_zone.png "Ecran principal de la zone *Netro*")
+
+De manière totalement symétrique on retrouve les informations relatives au prochain arrosage planifié, à considérer que la planification ait été effectuée.
+
 ### Les capteurs de sol
  
