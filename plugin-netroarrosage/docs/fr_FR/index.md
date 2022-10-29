@@ -1,6 +1,6 @@
 # Plugin Netro Arrosage
 
-Ce plugin permet de gérer l'écosystème [*Netro*](https://*Netro*home.com/) permettant, grace à son contrôleur et l'ensemble de ses capteurs, d'assurer l'arrosage automatique de votre jardin. Il s'appuie sur l'[API Public](http://www.*Netro*home.com/en/shop/articles/10) de *Netro*.
+Ce plugin permet de gérer l'écosystème [*Netro*](https://Netrohome.com/) permettant, grace à son contrôleur et l'ensemble de ses capteurs, d'assurer l'arrosage automatique de votre jardin. Il s'appuie sur l'[API Public](http://www.Netrohome.com/en/shop/articles/10) de *Netro*.
 
 ## Description
 
