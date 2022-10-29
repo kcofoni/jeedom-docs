@@ -39,6 +39,22 @@ Les numéros de série fournis dans la page de configuration seront utilisés po
 
 ### Le contrôleur
 
+On retrouve dans le contrôleur les commandes *Action* de *démarrage* et *arrêt* de l'arrosage, d'*activation/désactivation* du système. 
+
+Démarrer un arrosage depuis le *contrôleur* a pour effet de lancer l'arrosage de toutes les *zones* actives. Si le système est configuré pour empêcher l'arrosage simultané sur plusieurs zones, l'arrosage démarre sur une première zone et les arrosages sur les autres zones sont planifiées pour se réaliser en séquence, l'une après l'autre. Das ce contexte, *Netro* permet d'indiquer le temps qu'il peut être nécessaire d'attendre entre deux arrosages - à paramétrer dans l'app *Netro* directement -.
+
+L'action *suspendre la planification* permet d'indiquer à Netro que l'on souhaite suspendre toute arrosage planifié dans les jours qui suivent, on indiquera le nombre de jour en paramètre.
+
+Du coté des commandes *Info*, on notera le *statut* du contrôleur au sens de Netro ("ONLINE", "STANDBY", "WATERING", ...), qui découlera notamment des commandes *activation/désactivation* et des commandes de *démarrage* et d'*arrêt* de l'arrosage. Deux binaires sont proposées : *Actif* - pour indiquer que le contrôleur n'est pas en standby - et *Arrosage en cours*.
+
+![Widget du contrôleur](images/widget_controleur.png "Widget du contrôleur *Netro*")
+
+Quand on souhaite lancer l'arrosage d'une zone uniquement, on applique la commande de démarrage de l'arrosage sur l'équipement représentant la *zone* concernée (voir plus loin dans ce document dans la rubrique "Les zones").
+
+On peut noter que le nombre d'appels effectués depuis minuit à l'[API Public](http://www.*Netro*home.com/en/shop/articles/10) est indiqué dans la rubrique information de la page principale de l'équipement avec le nombre maximum d'appels autorisés. Il s'agit du *nombre de jetons restants* et du *nombre de jetons max* comme illustré ci-dessous.
+
+![Ecran du contrôleur](images/jetons.png "Ecran principal du contrôleur *Netro*")
+
 ### Les zones
 
 ### Les capteurs de sol
