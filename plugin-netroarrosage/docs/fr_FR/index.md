@@ -25,7 +25,7 @@ Les données du contrôleur sont rafraichies toutes les 5 mn (cron5) et celles d
 Il est probable que vous décidiez de ne pas arroser à certaines heures de la nuit, dans ce cas on pourra ralentir la fréquence de rafraichissement en définissant un *facteur de ralentissement* sur la période concernée. Le formalisme est évoqué un peu plus bas dans la rubrique **fonctions avancées**.
 Ce paramètre est optionnel.
 
-L' *objet parent par défaut* désigne l'objet auquel vous rattacher vos équipements Jeedom *Netro* (ici *Jardin*).
+L'*objet parent par défaut* désigne l'objet auquel vous rattacher vos équipements Jeedom *Netro* (ici *Jardin*).
 
 ## Création des équipements
 
@@ -70,4 +70,12 @@ De manière totalement symétrique on retrouve les informations relatives au pro
 Les équipements représentant les capteurs de sol renferment les information inhérentes au relevé effectué par les capteurs à intervalle régulier, à savoir la température, l'humidité et la luminosité. Le niveau de batterie, auquel il faut veiller puisque qu'il dépend de la luminosité, est également affiché.
 
 ![Ecran du capteur de sol](images/capteur_de_sol.png "Ecran principal du capteur *Netro*")
+
+## Paramètres avancés
+
+### facteur de ralentissement
+
+### notifications des arrosages
+
+## Exemples d'intégration dans Jeedom Connect
 
