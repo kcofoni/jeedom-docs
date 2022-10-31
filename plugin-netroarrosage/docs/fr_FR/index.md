@@ -90,10 +90,11 @@ On peut ainsi, sans dégrader la pertinence des équipements, limiter le nombre 
 
 ## Exemples d'intégration dans Jeedom Connect
 
-![JC Ecran arrosage](images/jc-netroarrosage.png "Ecran arrosage JC *Netro*")
+![JC Ecran arrosage](images/jc-netroarrosage.png "Ecran arrosage *Netro*")
 ![JC Démarrer arrosage](images/jc-demarrerarrosage.png "Ecran démarrage arrosage *Netro*")
 ![JC Arrosage en cours](images/jc-encours.png "Ecran arrosage en cours *Netro*")
 ![JC Terminer arrosage](images/jc-terminerarrosage.png "Ecran arrêt arrosage *Netro*")
+![JC Zone détail](images/jc-zonedétail.png "Ecran zone détail arrosage *Netro*")
 ![JC Notification arrosage](images/jc-notifications.png "Ecran de notifications JC arrosage *Netro*")
 
 
