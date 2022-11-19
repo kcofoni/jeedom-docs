@@ -35,7 +35,7 @@ On peut renommer à souhait tous les équipements ainsi générés. On peut éga
 
 ![Ecran de synchronisation](images/synchronisation.png "Ecran principal de *Netro* Arrosage")
 
-Les numéros de série fournis dans la page de configuration seront utilisés pour retrouver votre environnement *Netro*. Si vous ne les avez pas fournis au préalable la synchronisation n'aura aucun effet. 
+Les numéros de série fournis dans la page de configuration seront utilisés pour retrouver votre environnement *Netro*. Si vous ne les avez pas fournis au préalable la synchronisation n'aura aucun effet.
 
 ## Les équipements
 
