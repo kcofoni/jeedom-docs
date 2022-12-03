@@ -93,11 +93,11 @@ It is thus possible, without degrading the relevance of the equipment, to limit 
 ## Examples of integration in Jeedom Connect
 
 ![JC watering screen](images/jc-netro_arrosage.png "*Netro* watering screen")
-![JC start watering](images/jc-start_watering.png "*Netro*" starting watering screen)
+![JC start watering](images/jc-start_watering.png "*Netro* starting watering screen")
 ![JC running watering](images/jc-running.png "*Netro* running watering screen")
-![JC stop watering](images/jc-stop_watering.png "*Netro* stop wateringn screen")
+![JC stop watering](images/jc-stop_watering.png "*Netro* stop watering screen")
 ![JC zone detail](images/jc-zone_detail.png "*Netro* watering zone detail")
-![JC watering notification](images/jc-notifications.png "*Netro* watering notification")
+![JC watering notification](images/jc-notification.png "*Netro* watering notification")
 
 
 
