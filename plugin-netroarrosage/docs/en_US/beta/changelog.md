@@ -8,6 +8,7 @@
 - Pixie model integration
 - Ability to manage several controllers
 - Name and versions of the sensors now displayed in the "Equipment" tab
+
 **WARNING**: It is recommended to redo a synchronization after a version upgrade to update the information on the equipment (non-destructive operation therefore without risk)
 
 # 23/2/2023
