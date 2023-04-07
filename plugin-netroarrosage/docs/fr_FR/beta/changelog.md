@@ -8,6 +8,7 @@
 - Intégration du modèle Pixie
 - Possibilité de gérer plusieurs contrôleurs
 - Récupération du nom et des informations de version des capteurs, affichés dans l'onglet "Equipement"
+**ATTENTION** : Il est conseillé de refaire une synchronisation après montée de version pour mettre à jour les informations sur les équipements (opération non destructive donc sans risque à priori)
 
 # 23/2/2023
 Correction d'une anomalie concernant la date de prévision du prochain arrosage
