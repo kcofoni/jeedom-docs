@@ -4,6 +4,9 @@
 >
 >S'il n'y a pas d'information sur la mise à jour, c'est que celle-ci concerne uniquement de la mise à jour de documentation, de traduction ou de texte.
 
+# 10/4/2023
+Génère des noms alternatifs lors de la création d'équipements dont les noms Netro sont déjà pris dans Jeedom
+
 # 6/4/2023
 - Intégration du modèle Pixie
 - Possibilité de gérer plusieurs contrôleurs

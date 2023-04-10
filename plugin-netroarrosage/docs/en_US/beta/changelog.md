@@ -4,6 +4,9 @@
 >
 >If there is no information for a given update, it means that it concerns only the update of documentation, translation or text.
 
+# 10/4/2023
+Generate alternate names when creating equipment whose Netro names are already taken in Jeedom
+
 # 6/4/2023
 - Pixie model integration
 - Ability to manage several controllers
